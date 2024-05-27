@@ -14,4 +14,10 @@ public class Adventure extends Movie {
 
 
     }
+
+    public void watchAdventure() {
+        System.out.println("Watching an Adventure");
+    }
+
+
 }

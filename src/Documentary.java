@@ -15,4 +15,8 @@ public class Documentary extends Movie{
 
     }
 
+    public void watchDocumentary() {
+        System.out.println("Watching a Documentary");
+    }
+
 }
